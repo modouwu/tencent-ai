@@ -3,15 +3,6 @@
 
 <<<<<<< HEAD
 2.创建分支dev
-Creating a new branch is VERY quick
+Creating a new branch is SMART
 
-we are tesing stash
-
-
-
-
-
-=======
-2.创建分支issue-101
-creating a new branch is simple and quick
->>>>>>> master
+we are tesing
