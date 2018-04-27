@@ -3,7 +3,4 @@
 
 2.创建分支dev
 <<<<<<< HEAD
-creating a new branch is quick and simple
-=======
-Creating a new branch is quick
->>>>>>> featurel
+creating a new branch is simple
