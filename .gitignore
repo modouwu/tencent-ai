@@ -17,9 +17,11 @@
 *.ipr
 
 ### NetBeans ###
-/nbproject/private/
+/nbproject/private/git
 /build/
 /nbbuild/
 /dist/
 /nbdist/
 /.nb-gradle/
+/src/main/java/com/example/wechat2/testignore.java
+/.gitignore
